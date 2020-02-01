@@ -35,6 +35,7 @@ module.exports = {
         groups: [
             '/^react/',
             'module',
+            '/^@shared/',
             ['parent', 'sibling', 'index'],
         ],
         alphabetize: { order: 'asc', ignoreCase: true },
